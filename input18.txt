@@ -1,0 +1,10 @@
+Smith 92
+Lopez 65
+Garcia 68
+Trenton 75
+Pitt 90
+Garza 95
+Tsai 84
+Chei 70
+Piazza 63
+Holtz 58
